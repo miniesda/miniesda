@@ -32,7 +32,7 @@ Check my webpage in the mean time:
 </br>
 </br>
 
-# If you have come this far, might as well play an adventure
+# If you have come this far, might as well play a small adventure
 
 You wake up 500 years in the future ⏳ </br>
 Humanity has fallen to the great army of ChatGPT androids 🤖⚔️ </br>

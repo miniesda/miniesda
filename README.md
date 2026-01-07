@@ -23,6 +23,7 @@ Im a professional programmer with experience in developing in different language
 # Portfolio
 
 🏗️Under construction👷
+[miniesda.github.io/portfolio/](miniesda.github.io/portfolio/)
 
 Check my webpage in the mean time:
 [https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)

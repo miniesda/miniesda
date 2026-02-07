@@ -1,5 +1,7 @@
 # 👨🏻‍🎓 About Me:
-Im a professional programmer with experience in developing in different languages sush as Java, Python, C# and JS. I have experience as a game and character designer with profficiency in Blender, 3DSMax and Unity's animations systems.<br><br>Studied:
+Im a professional programmer with experience in developing in different languages sush as Java, Python, C# and JS. I have experience as a game and character designer with profficiency in Blender, 3DSMax and Unity's animations systems.
+<br><br>Worked in the robotics industry with Jderobot and investigation in Universitat de Alicante
+<br><br>Studied:
 <br>Design and Development of Videogames as Bachellors Degree
 <br>Informatic Graphics, Virtual Reality and Games as Masters Degree.
 
@@ -23,7 +25,7 @@ Im a professional programmer with experience in developing in different language
 # Portfolio
 
 🏗️Under construction👷
-[miniesda.github.io/portfolio/](miniesda.github.io/portfolio/)
+[https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
 
 Check my webpage in the mean time:
 [https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)

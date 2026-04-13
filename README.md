@@ -22,7 +22,7 @@
 # Portfolio
 
 > [!WARNING]
-> 🏗️Under construction👷
+> 🏗️3D portfolio under construction👷
 > [https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
 
 Check my webpage in the mean time:

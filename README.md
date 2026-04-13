@@ -1,9 +1,32 @@
 # 👨🏻‍🎓 About Me:
-Im a professional programmer with experience in developing in different languages sush as Java, Python, C# and JS. I have experience as a game and character designer with profficiency in Blender, 3DSMax and Unity's animations systems.
-<br><br>Worked in the robotics industry with Jderobot and investigation in Universitat de Alicante
-<br><br>Studied:
-<br>Design and Development of Videogames as Bachellors Degree
-<br>Informatic Graphics, Virtual Reality and Games as Masters Degree.
+
+> [!IMPORTANT]
+> Studied:
+> Design and Development of Videogames as Bachellors Degree
+> 
+> Informatic Graphics, Virtual Reality and Games as Masters Degree.
+> 
+> Worked in the robotics industry with Jderobot and investigation in Universitat de Alicante
+
+<br>
+
+> [!NOTE]
+> I'm a programmer with experience in developing in different languages sush as Java, Python, C# or SQL.
+> 
+> I also have experience as a game and character designer and developer with profficiency in Blender, 3DSMax and Unity's animations systems.
+> 
+> I am also profficient in Web development and JS both in front and back end.
+>
+> Capable of integrating database calls, 3D Models and interactive Web Designs.
+
+# Portfolio
+
+> [!WARNING]
+> 🏗️Under construction👷
+> [https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
+
+Check my webpage in the mean time:
+[https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davo.rgz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-rodriguez-rives-82471024b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@miniesda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davo.rgz@hotmail.com) 
@@ -22,20 +45,13 @@ Im a professional programmer with experience in developing in different language
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miniesda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# Portfolio
-
-🏗️Under construction👷
-[https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
-
-Check my webpage in the mean time:
-[https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)
 
 ---
 
 </br>
 </br>
 
-# If you have come this far, might as well play a small adventure
+# If you have come this far, might as well play a small role adventure
 
 You wake up 500 years in the future ⏳ </br>
 Humanity has fallen to the great army of ChatGPT androids 🤖⚔️ </br>

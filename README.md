@@ -11,13 +11,13 @@
 <br>
 
 > [!NOTE]
-> I'm a programmer with experience in developing in different languages sush as Java, Python, C# or SQL.
+> I'm a programmer with experience developing in different languages sush as Typescript, Java, Python, C# or SQL.
 > 
-> I also have experience as a game and character designer and developer with profficiency in Blender, 3DSMax and Unity's animations systems.
-> 
-> I am also profficient in Web development and JS both in front and back end.
+> I am also profficient in Web development with React, Django and Selenium, both in front and back end.
 >
-> Capable of integrating database calls, 3D Models and interactive Web Designs.
+> Capable of integrating database calls, 3D Models, interactive Web Designs and web automatization.
+>
+> I also have experience as a game and character designer and developer with profficiency in Blender, 3DSMax and Unity's animations systems.
 
 # Portfolio
 
@@ -25,7 +25,7 @@
 > 🏗️3D portfolio under construction👷
 > [https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
 
-Check my webpage in the mean time:
+Check my old webpage in the mean time:
 [https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)
 
 ## 🌐 Socials:
@@ -48,103 +48,14 @@ Check my webpage in the mean time:
 
 -->
 ---
-
-</br>
 </br>
 
-# If you have come this far, might as well play a small role adventure
-
-You wake up 500 years in the future ⏳ </br>
-Humanity has fallen to the great army of ChatGPT androids 🤖⚔️ </br>
-The Human Resistance still fights in the shadows. And they need you 🧑‍🚀🔥 </br>
-</br>
-Your mission: destroy the main robot factory 🏭💥 </br>
-
-You enter what seems an abandoned facility. </br>
-The lights flicker. The air is silent. </br>
-Ahead of you are two paths ⬅️ ➡️ </br>
-</br></br>
-One leads to the main core room ☢️ </br>
-Other to the sewers 🛗 </br> </br>
-
+# If you have come this far
 <details id="left-corridor">
-  <summary> Continue to the main core room ☢️ </summary>
+  <summary> Might as well check my arts and crafts instagram account 🎨⬇️ </summary>
   </br>
-  You sneak past the corridor, trying not to make a noise and peak in the core's room </br>
-  some androids lay on the ground, deactivated with their guns loaded 🔫🤖</br>
-  In that instant the alarm triggers, the androids turn on and slowly get up from the ground </br>
-  Quick! Make a decision ‼️ </br></br>
-  Grab the gun from the closest android and start shooting 🔫 </br>
-  Run for your life 🏃🏻‍♂️ </br>
+  <a href="https://instagram.com/davocrafts">
+    <img width="375" height="443" alt="image" src="https://github.com/user-attachments/assets/31d827f9-1209-49da-92f9-a68a94daa1b6" />
+  </a>
   </br>
-
-  <details id="shoot">
-  <summary> Start shooting 🔫🪖 </summary>
-    </br>
-    <strong> ENDING: THE LAST RAMBOO </strong> </br></br>
-    Your bullets aren't infinite, you take down as much robots as you can, but they keep coming </br>
-    In the end, the smell of gunpowder and metal is the last thing you can feel ... </br>
-
-    Live for nothing, or die for something
-    
----    
-  </details>
-
-  <details id="Run">
-  <summary> Run, RUN! 🏃🏻‍♂️💨 </summary>
-    </br>
-    <strong> ENDING: THE NEW ORDER </strong> </br></br>
-    You run as fast as you can, as you see the entrance closing with a loud BANG 🚪</br>
-    You shout and cry for help but no one can listen. The robots finally knock you out </br>
-
-    Scanning ... Human brain intact ... Initiatiting protocol: HUMAN ANCHOR REPLACEMENT SEQUENCE ... Hello World, Hive Mind
----
-  </details>
-  
----
-</details>
-
-<details id="right-corridor">
-<summary> Continue to the sewers 🛗 </summary>
-  </br>
-  Green luminiscent water fills the side of the pipe system 🧪</br>
-  You feel like and eternity walking in this stinky maze, until a flashlight blinds you ... </br>
-  </br>
-  HALT! Who are you? 🔦 </br>
-  </br>
-  The RESISTANCE welcomes you, they have planned on raiding this base with explosives and guns, they only need a plan: </br>
-  </br>
-  I'll go in solo, I can handle this 🥷🏻</br>
-  Lets raid this facility all together. Ready the guns! 🫱🏼‍🫲🏼</br>
-  </br>
-
-  <details id="solo">
-  <summary> I'll go solo 🥷🏻</summary>
-  </br>
-  <strong> ENDING: HASTA LA VISTA, BABY </strong> </br></br>
-  You enter the facility alone, armed with all the explosives 🧨</br>
-  You plant all of them without being detected, but on the last one, the alarm goes off and all door shut closed </br>
-  You laugh, as you just take the detonator and look directly to the terminal </br>
-
-    Hasta la vista, Baby 🕹️
-  
---- 
-  </details>
-
-  <details id="raid">
-  <summary> Lets raid it 🫱🏼‍🫲🏼</summary>
-  </br>
-  <strong> ENDING: GOODBYE, WORLD! </strong></br></br>
-  The RESISTANCE storms the facility, clearing every room</br>
-  Explosions and bullets flying everywhere 💣</br>
-  All bots are destroyed and the explosives are planted and armed </br>
-  You take one last look at the main terminal before exiting </br>
-
-    Goodbye, world!
-  
----
-  </details>
-  
-
----
 </details>

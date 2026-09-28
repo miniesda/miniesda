@@ -52,10 +52,13 @@ Check my old webpage in the mean time:
 
 # If you have come this far
 <details id="left-corridor">
-  <summary> Might as well check my arts and crafts instagram account 🎨⬇️ </summary>
+  <summary> Might as well check my instagram accounts 🎨⬇️      💻⬇️ </summary>
   </br>
   <a href="https://instagram.com/davocrafts">
     <img width="375" height="443" alt="image" src="https://github.com/user-attachments/assets/31d827f9-1209-49da-92f9-a68a94daa1b6" />
+  </a>
+  <a href="https://instagram.com/davo_pc_stuff">
+    <img width="375" height="443" alt="image" src="https://github.com/user-attachments/assets/4f39f488-6f9b-4414-8166-f3a0d7f45310" />
   </a>
   </br>
 </details>

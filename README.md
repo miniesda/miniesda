@@ -23,7 +23,6 @@
 
 > [!WARNING]
 > 🏗️3D portfolio under construction👷
-> [https://miniesda.github.io/portfolio/](https://miniesda.github.io/portfolio/)
 
 Check my old webpage in the mean time:
 [https://miniesda.github.io/my-own-web-page/](https://miniesda.github.io/my-own-web-page/)
